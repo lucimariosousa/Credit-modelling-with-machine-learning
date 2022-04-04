@@ -1,5 +1,5 @@
 # Credit-modelling-with-machine-learning
-In this project we perform a credit modelling with machine learning, which is a common data science problem in the finance sector. The datasaet consists on informations of a group of indivituals who took a loan from a bank.
+In this project we perform a credit modelling with machine learning, which is a common data science problem in the finance sector. The datasaet consists on informations of a group of individuals who took a loan from a bank.
 The problem consists in the following: Considering the investor's point of view, we want to avoid people that will default their loan. Create a machine learning model to allow a conservative investor to avoid people that will default on their loans.
 
 
